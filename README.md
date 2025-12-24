@@ -102,6 +102,25 @@ These features ensure that insights are delivered consistently and proactively,
 reducing the need for manual report checks and supporting timely business
 decisions.
 
+## Key Business Insights
+
+The analysis delivered several actionable insights that help explain overall
+business performance and customer behavior:
+
+- The business generated approximately **$13.89K in net revenue**, achieving a
+  **62.27% year-to-date profit margin**, indicating strong operational efficiency.
+
+- The **Modular Sofa Set** emerged as the highest net revenue–generating product,
+  contributing approximately **$928.36 USD**, making it a key driver of sales
+  performance.
+
+- Customer engagement analysis showed that the **UK recorded the highest loyalty
+  points**, while **UAE customers exhibited the highest median sales value**,
+  highlighting differences in engagement versus transaction size across regions.
+
+- Profit margin trends were relatively consistent across countries, suggesting
+  stable pricing and cost structures across markets.
+
 > **Note:** This project is based on a retail business scenario and was developed as part of a
 professional analytics capstone for learning and portfolio purposes.
 
