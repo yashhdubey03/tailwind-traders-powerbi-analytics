@@ -121,6 +121,31 @@ business performance and customer behavior:
 - Profit margin trends were relatively consistent across countries, suggesting
   stable pricing and cost structures across markets.
 
+  ## Tools & Technologies
+
+The following tools and technologies were used across different stages of the
+analytics workflow:
+
+- **Microsoft Excel** – Initial data preparation and validation
+- **Power BI Desktop** – Data modeling, DAX calculations, and report development
+- **Power BI Service** – Dashboard creation, alerts, and scheduled subscriptions
+- **DAX** – Business metrics and time-based calculations
+- **Python (Power Query integration)** – Importing historical exchange rate data
+
+## Final Summary
+
+This project demonstrates an end-to-end business analytics workflow, starting
+from raw data preparation and progressing through data modeling, analysis,
+reporting, and executive-level insight delivery.
+
+Rather than focusing solely on visual design, the emphasis was placed on data
+quality, meaningful metrics, and actionable insights. The resulting solution
+supports both exploratory analysis and proactive decision-making through
+dashboards, alerts, and automated reporting.
+
+Overall, this project reflects how a data analyst approaches real-world business
+problems by transforming data into clarity and insight.
+
 > **Note:** This project is based on a retail business scenario and was developed as part of a
 professional analytics capstone for learning and portfolio purposes.
 
