@@ -185,7 +185,6 @@ dashboards, alerts, and automated reporting.
 Overall, this project reflects how a data analyst approaches real-world business
 problems by transforming data into clarity and insight.
 
-> **Note:** This project is based on a retail business scenario and was developed as part of a
-professional analytics capstone for learning and portfolio purposes.
-
-
+> 📌 **Accreditation Note:**  
+> This project was completed as part of the **Microsoft Power BI Data Analyst Professional Certificate (Coursera)**.  
+> The Tailwind Traders business context is a simulation used for learning and portfolio purposes.
