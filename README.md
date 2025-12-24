@@ -64,6 +64,25 @@ To enable consistent financial comparison across regions, all monetary values
 were standardized into a single currency. The resulting data model was designed
 to support scalable analysis across products, countries, and time periods.
 
+## Analysis & Reporting
+
+With a clean and well-structured data model in place, the focus shifted to
+analyzing sales performance and profitability from a business perspective.
+
+Key analytical measures were defined to evaluate performance across different
+time periods, including yearly, quarterly, and year-to-date views. Median sales
+were also used alongside totals to better represent typical sales behavior and
+reduce the influence of extreme values.
+
+Two primary report pages were designed to support analysis:
+- **Sales Overview**, focusing on product demand, customer engagement, and sales trends
+- **Profit Overview**, focusing on revenue generation and profitability across products and regions
+
+Visualizations were selected based on the type of insight required. Bar and
+column charts were used for comparison across categories, line and area charts
+were used to analyze trends over time, and KPI visuals highlighted key business
+metrics for quick evaluation.
+
 > **Note:** This project is based on a retail business scenario and was developed as part of a
 professional analytics capstone for learning and portfolio purposes.
 
