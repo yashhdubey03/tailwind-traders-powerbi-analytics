@@ -23,6 +23,27 @@ Specifically, the project aimed to:
 - Create interactive reports to analyze trends and performance
 - Deliver insights in a format suitable for executive decision-making
 
+## Project Structure
+
+The repository is organized to reflect how analytics projects are structured in
+professional environments, with a clear separation between data, reports,
+documentation, and outputs.
+
+data/
+- raw/        → Original, unmodified datasets as received
+- processed/  → Enriched Sales excel file prepared for analysis
+
+powerbi/
+- reports/    → Power BI report (.pbix) containing data model, DAX, and visuals
+- dashboard/  → Executive dashboard notes and references from Power BI Service
+
+documentation/
+- Explanations of assumptions, data modeling decisions, and metric definitions
+
+screenshots/
+- Visual previews of reports, dashboards, and data model
+
+
 > **Note:** This project is based on a retail business scenario and was developed as part of a
 professional analytics capstone for learning and portfolio purposes.
 
