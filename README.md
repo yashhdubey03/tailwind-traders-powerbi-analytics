@@ -10,6 +10,18 @@ This project focuses on building an end-to-end analytics solution using Power BI
 raw sales data into reliable, decision-ready insights through proper data preparation,
 data modeling, analysis, and reporting.
 
+## Table of Contents
+
+- [Business Context](#business-context)
+- [Project Objectives](#project-objectives)
+- [Project Structure](#project-structure)
+- [Data Preparation & Modeling](#data-preparation--modeling)
+- [Analysis & Reporting](#analysis--reporting)
+- [Executive Dashboard, Alerts & Subscriptions](#executive-dashboard-alerts--subscriptions)
+- [Key Business Insights](#key-business-insights)
+- [Tools & Technologies](#tools--technologies)
+- [Final Summary](#final-summary)
+
 ## Project Objectives
 
 The objective of this project was to design a business-ready analytics solution that enables
