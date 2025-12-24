@@ -83,6 +83,25 @@ column charts were used for comparison across categories, line and area charts
 were used to analyze trends over time, and KPI visuals highlighted key business
 metrics for quick evaluation.
 
+## Executive Dashboard, Alerts & Subscriptions
+
+To support executive-level decision-making, an interactive dashboard was created
+in Power BI Service. The dashboard consolidates key sales and profitability
+metrics into a single, high-level view designed for quick performance monitoring.
+
+Key visuals and KPIs from the Sales and Profit reports were pinned to the
+dashboard, allowing stakeholders to track trends without navigating full
+report pages. A mobile-optimized layout was also configured to ensure insights
+could be accessed easily on smaller devices.
+
+To enable proactive monitoring, data-driven alerts were configured on critical
+revenue indicators. Scheduled report subscriptions were also set up to deliver
+sales and profit summaries automatically on a recurring basis.
+
+These features ensure that insights are delivered consistently and proactively,
+reducing the need for manual report checks and supporting timely business
+decisions.
+
 > **Note:** This project is based on a retail business scenario and was developed as part of a
 professional analytics capstone for learning and portfolio purposes.
 
