@@ -43,6 +43,26 @@ documentation/
 screenshots/
 - Visual previews of reports, dashboards, and data model
 
+## Data Preparation & Modeling
+
+Before building reports or dashboards, the focus was on ensuring that the data
+was accurate, consistent, and structured correctly for analysis.
+
+Sales data was initially prepared in Excel to validate business logic and
+calculate essential financial fields such as revenue, tax, and profit.
+This early preparation helped confirm that the numbers made sense before
+moving into Power BI.
+
+Multiple datasets, including sales, purchases, countries, and historical exchange
+rates, were then integrated in Power BI. Historical exchange data was imported
+using a Python script within Power Query, allowing currency conversion logic to
+be handled during data ingestion rather than at the reporting layer. Data types 
+were validated, relationships were defined, and a calendar table was introduced 
+to ensure accurate time-based analysis
+
+To enable consistent financial comparison across regions, all monetary values
+were standardized into a single currency. The resulting data model was designed
+to support scalable analysis across products, countries, and time periods.
 
 > **Note:** This project is based on a retail business scenario and was developed as part of a
 professional analytics capstone for learning and portfolio purposes.
