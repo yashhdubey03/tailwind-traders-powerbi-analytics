@@ -95,6 +95,15 @@ column charts were used for comparison across categories, line and area charts
 were used to analyze trends over time, and KPI visuals highlighted key business
 metrics for quick evaluation.
 
+### Sales Overview
+
+![Sales Overview](screenshots/sales_overview.jpeg)
+
+### Profit Overview
+
+![Profit Overview](screenshots/profit_overview.jpeg)
+
+
 ## Executive Dashboard, Alerts & Subscriptions
 
 To support executive-level decision-making, an interactive dashboard was created
