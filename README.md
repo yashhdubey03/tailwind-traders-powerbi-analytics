@@ -76,6 +76,11 @@ To enable consistent financial comparison across regions, all monetary values
 were standardized into a single currency. The resulting data model was designed
 to support scalable analysis across products, countries, and time periods.
 
+### 📐 Data Model (Power BI)
+
+![Data Model](screenshots/data_model.png)
+
+
 ## Analysis & Reporting
 
 With a clean and well-structured data model in place, the focus shifted to
@@ -117,8 +122,6 @@ could be accessed easily on smaller devices.
 
 ### 📊 Executive Dashboard Preview
 
-![Executive Dashboard](screenshots/executive_dashboard.jpeg)
-
 To enable proactive monitoring, data-driven alerts were configured on critical
 revenue indicators. Scheduled report subscriptions were also set up to deliver
 sales and profit summaries automatically on a recurring basis.
@@ -126,6 +129,8 @@ sales and profit summaries automatically on a recurring basis.
 These features ensure that insights are delivered consistently and proactively,
 reducing the need for manual report checks and supporting timely business
 decisions.
+
+![Executive Dashboard](screenshots/executive_dashboard.jpeg)
 
 ## Key Business Insights
 
