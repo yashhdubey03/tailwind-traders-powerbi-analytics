@@ -121,7 +121,7 @@ business performance and customer behavior:
 - Profit margin trends were relatively consistent across countries, suggesting
   stable pricing and cost structures across markets.
 
-  ## Tools & Technologies
+## Tools & Technologies
 
 The following tools and technologies were used across different stages of the
 analytics workflow:
