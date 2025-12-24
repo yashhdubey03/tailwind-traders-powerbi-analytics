@@ -31,7 +31,7 @@ documentation, and outputs.
 
 data/
 - raw/        → Original, unmodified datasets as received
-- processed/  → Enriched Sales excel file prepared for analysis
+- processed/  → Enriched Sales dataset prepared for analysis
 
 powerbi/
 - reports/    → Power BI report (.pbix) containing data model, DAX, and visuals
