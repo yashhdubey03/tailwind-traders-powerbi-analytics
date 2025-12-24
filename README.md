@@ -106,6 +106,10 @@ dashboard, allowing stakeholders to track trends without navigating full
 report pages. A mobile-optimized layout was also configured to ensure insights
 could be accessed easily on smaller devices.
 
+### 📊 Executive Dashboard Preview
+
+![Executive Dashboard](screenshots/executive_dashboard.jpeg)
+
 To enable proactive monitoring, data-driven alerts were configured on critical
 revenue indicators. Scheduled report subscriptions were also set up to deliver
 sales and profit summaries automatically on a recurring basis.
