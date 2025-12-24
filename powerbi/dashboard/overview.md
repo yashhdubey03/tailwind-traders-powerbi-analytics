@@ -24,8 +24,8 @@ Power BI Service dashboards enable:
 
 ## Dashboard Preview
 
-![Executive Dashboard](../screenshots/executive_dashboard.jpeg)
+![Executive Dashboard](../../screenshots/executive_dashboard.jpeg)
 
 ## Alert Configuration Example
 
-![Alert Configuration](../screenshots/alerts_configuration.jpeg)
+![Alert Configuration](../../screenshots/alerts_configuration.jpeg)
