@@ -132,6 +132,15 @@ decisions.
 
 ![Executive Dashboard](screenshots/executive_dashboard.jpeg)
 
+### 🔔 Alert Configuration Example
+
+I created a data-driven alert in Power BI Service triggered when **Gross Revenue 
+drops below $400 USD**. This allows decision-makers to respond immediately without 
+checking the dashboard manually.
+
+![Alert Configuration](screenshots/alerts_configuration.jpeg)
+
+
 ## Key Business Insights
 
 The analysis delivered several actionable insights that help explain overall
