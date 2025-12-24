@@ -97,11 +97,11 @@ metrics for quick evaluation.
 
 ### Sales Overview
 
-![Sales Overview](screenshots/sales_overview.jpeg)
+![Sales Overview](screenshots/sales_overview.png)
 
 ### Profit Overview
 
-![Profit Overview](screenshots/profit_overview.jpeg)
+![Profit Overview](screenshots/profit_overview.png)
 
 
 ## Executive Dashboard, Alerts & Subscriptions
