@@ -1,5 +1,10 @@
 # Tailwind Traders – Power BI Business Analytics Project
 
+## 📌 Live Dashboard (Power BI)
+
+View the interactive report here:  
+🔗 https://app.powerbi.com/view?r=eyJrIjoiNjJiNGEwOWYtY2U0Yi00ZmQ1LTg2YWUtNjM4NDAxZWY3YzFmIiwidCI6ImFlY2ZkNDQ2LThlZGEtNDA1YS1hNzk0LTdkNzk0MGFmMDRkZiJ9
+
 ## Business Context
 
 Tailwind Traders is a retail business operating across multiple countries and product categories.
