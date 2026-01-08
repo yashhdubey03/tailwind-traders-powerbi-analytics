@@ -1,7 +1,7 @@
 # Tailwind Traders – Power BI Business Analytics Project
 
 ## Live Dashboard (Power BI)
-View my PowerBI report here: [🔗](https://app.powerbi.com/view?r=eyJrIjoiNjJiNGEwOWYtY2U0Yi00ZmQ1LTg2YWUtNjM4NDAxZWY3YzFmIiwidCI6ImFlY2ZkNDQ2LThlZGEtNDA1YS1hNzk0LTdkNzk0MGFmMDRkZiJ9)
+View my PowerBI report here: [🔗](https://app.powerbi.com/view?r=eyJrIjoiNjJiNGEwOWYtY2U0Yi00ZmQ1LTg2YWUtNjM4NDAxZWY3YzFmIiwidCI6ImFlY2ZkNDQ2LThlZGEtNDA1YS1hNzk0LTdkNzk0MGFmMDRkZiJ9&pageName=743a1912bc25bcd40954)
 
 ## Business Context
 
